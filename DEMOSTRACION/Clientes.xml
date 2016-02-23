@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Clientes>
+  <Cliente>
+    <IdCliente>0000</IdCliente>
+    <Nombre>PUBLICO EN GENERAL</Nombre>
+    <Direccion>DOMICILIO CONOCIDO S/N</Direccion>
+    <Colonia>CENTRO</Colonia>
+    <Poblacion>SAN FELIPE</Poblacion>
+    <Pais>MEXICO</Pais>
+    <RFC>XAXX010101000</RFC>
+    <Telefono1></Telefono1>
+    <Telefono2></Telefono2>
+    <CodigoPostal>37600</CodigoPostal>
+    <AtencionCXC></AtencionCXC>
+    <AtencionVentas></AtencionVentas>
+    <DiasCredito>0</DiasCredito>
+    <LimiteCredito>0.0000</LimiteCredito>
+    <Descuento>0.0000</Descuento>
+    <ComisionVendedor>0.0000</ComisionVendedor>
+    <Foto></Foto>
+  </Cliente>
+  <Cliente>
+    <IdCliente>1</IdCliente>
+    <Nombre>SALVADOR ARENAS ESPARZA</Nombre>
+    <Direccion>BELISARIO DOMINGUEZ #426</Direccion>
+    <Colonia>CENTRO</Colonia>
+    <Poblacion>SAN FELIPE</Poblacion>
+    <Pais>MEXICO</Pais>
+    <RFC>AEES480321M14</RFC>
+    <Telefono1></Telefono1>
+    <Telefono2></Telefono2>
+    <CodigoPostal>37600</CodigoPostal>
+    <AtencionCXC></AtencionCXC>
+    <AtencionVentas></AtencionVentas>
+    <DiasCredito>0</DiasCredito>
+    <LimiteCredito>0.0000</LimiteCredito>
+    <Descuento>0.0000</Descuento>
+    <ComisionVendedor>0.0000</ComisionVendedor>
+    <Foto></Foto>
+    <Longitud></Longitud>
+    <Latitud></Latitud>
+  </Cliente>
+  <Cliente>
+    <IdCliente>1001</IdCliente>
+    <Nombre>LUZ MA. DE JESUS ANDRADE SALAZAR</Nombre>
+    <Direccion>SOLEDAD 300-A</Direccion>
+    <Colonia>CENTRO</Colonia>
+    <Poblacion>SAN FELIPE</Poblacion>
+    <Pais>MEXICO</Pais>
+    <RFC>AASL440926ND4</RFC>
+    <Telefono1></Telefono1>
+    <Telefono2></Telefono2>
+    <CodigoPostal>37600</CodigoPostal>
+    <AtencionCXC></AtencionCXC>
+    <AtencionVentas></AtencionVentas>
+    <DiasCredito>0</DiasCredito>
+    <LimiteCredito>0.0000</LimiteCredito>
+    <Descuento>0.0000</Descuento>
+    <ComisionVendedor>0.0000</ComisionVendedor>
+    <Foto></Foto>
+    <Longitud>-101.220313</Longitud>
+    <Latitud>21.481223</Latitud>
+  </Cliente>
+  <Cliente>
+    <IdCliente>1002</IdCliente>
+    <Nombre>MA. ESTHELA SALAS CARDONA</Nombre>
+    <Direccion>16 DE SEPTIEMBRE 702</Direccion>
+    <Colonia>SANTUARIO</Colonia>
+    <Poblacion>SAN FELIPE</Poblacion>
+    <Pais>MEXICO</Pais>
+    <RFC>SACE521107B92</RFC>
+    <Telefono1></Telefono1>
+    <Telefono2></Telefono2>
+    <CodigoPostal>37600</CodigoPostal>
+    <AtencionCXC></AtencionCXC>
+    <AtencionVentas></AtencionVentas>
+    <DiasCredito>0</DiasCredito>
+    <LimiteCredito>0.0000</LimiteCredito>
+    <Descuento>0.0000</Descuento>
+    <ComisionVendedor>0.0000</ComisionVendedor>
+    <Foto></Foto>
+    <Longitud>-101.220155</Longitud>
+    <Latitud>21.481959</Latitud>
+  </Cliente>
+  </Clientes>

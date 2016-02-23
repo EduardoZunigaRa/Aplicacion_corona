@@ -1,0 +1,35 @@
+<div data-options="dxView : { name: 'datos', title: 'Clientes' } " >
+    <div data-options="dxContent: {  targetPlaceholder: 'content'}">
+        <div style="height:100%; width: 100%; margin: 0 auto" data-bind="dxDataGrid: {
+            dataSource: row_clientes,
+            columns: [
+    			{ dataField: 'IdCliente',width: 80},
+                { dataField: 'Nombre'},
+                { dataField: 'Direccion'}
+            ],
+            columnChooser: { enabled: true },
+            allowColumnReordering: true,
+            sorting: { mode: 'multiple' },
+            groupPanel: { visible: true, emptyPanelText: 'Arrastre la columna para filtrar los datos' },
+            pager: { visible: true },
+            paging: { pageSize: 20},
+
+            editing: {
+                editEnabled: false,
+                editMode: 'row',
+                insertEnabled: false,
+                removeEnabled: false
+            },
+            filterRow: { visible: true },
+            searchPanel: { visible: true },
+            selection: { mode: 'none' },
+            rowClick: function (clickedRow) {
+            clickedRow.rowElement.hasClass('clicked') ?
+            clickedRow.rowElement.removeClass('clicked') : clickedRow.rowElement.addClass('clicked')
+        }
+        }">
+        </div>
+        <div id="gridContainer"></div>
+        <div id="clearSelectionButton" style="height: 40px;"></div>
+    </div>
+    </div>

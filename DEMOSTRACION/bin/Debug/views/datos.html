@@ -1,0 +1,43 @@
+﻿<div data-options="dxView : { name: 'datos', title: 'Datos'}">
+    <div data-options="dxContent : { targetPlaceholder: 'content' } " class="dx-content-background">
+        <div data-bind="dxDataGrid: { 
+             dataSource: customers,
+        paging: {
+            pageSize: 10
+        },
+        pager: {
+            showPageSizeSelector: true,
+            allowedPageSizes: [5, 10, 20],
+            showInfo: true
+        },
+        columns: [
+    			{ dataField: 'CompanyName', width: 125 },
+                'title',
+    			{ dataField: 'City', width: 60 },
+    			{ dataField: 'State', visible: false }, 
+    			{ dataField: 'Phone', visible: false }, 
+    			{ dataField: 'Fax', visible: false }, 
+    			{ dataField: 'Website', visible: false }
+            ],
+            columnChooser: { enabled: true },
+            allowColumnReordering: true,
+            sorting: { mode: 'multiple' },
+            groupPanel: { visible: true, emptyPanelText: 'Drag a column header here to group grid records' },
+            pager: { visible: true },
+            paging: { pageSize: 7 },
+            editing: {
+                editEnabled: true,
+                editMode: 'row',
+                insertEnabled: true,
+                removeEnabled: true
+            },
+            filterRow: { visible: true },
+            searchPanel: { visible: true },
+            selection: { mode: 'none' }
+
+             }">
+            <p style="padding: 5px">Datos</p> 
+            <div id="gridContainer"></div>
+        </div>
+    </div>
+</div>
