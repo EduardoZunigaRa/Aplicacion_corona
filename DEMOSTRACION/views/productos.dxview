@@ -4,7 +4,7 @@
             dataSource: row_productos,
             columns: [
     			{ dataField: 'IdProducto',width: 80},
-                { dataField: 'CodigodeBarras'},
+               
                 { dataField: 'DescripcionLarga'}
             ],
             columnChooser: { enabled: true },

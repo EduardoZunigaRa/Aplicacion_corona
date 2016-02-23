@@ -41,7 +41,8 @@ $(function() {
         navigation: DEMOSTRACION.config.navigation,
         commandMapping: DEMOSTRACION.config.commandMapping
     });
-    DEMOSTRACION.app.router.register(":view/:id", { view: "datos", id: undefined });
+    DEMOSTRACION.app.router.register(":view/:id", { view: "menu", id: undefined });
+    //DEMOSTRACION.app.router.register(":view/:id", { view: "menu", id: undefined });
     DEMOSTRACION.app.on("navigatingBack", onNavigatingBack);
     DEMOSTRACION.app.navigate();
 });

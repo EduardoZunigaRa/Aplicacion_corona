@@ -1,10 +1,10 @@
-<div data-options="dxView : { name: 'productos', title: 'Productoss' } ">
+<div data-options="dxView : { name: 'productos', title: 'Productos' } ">
     <div data-options="dxContent: {  targetPlaceholder: 'content'}">
         <div style="height:100%; width: 100%; margin: 0 auto" data-bind="dxDataGrid: {
             dataSource: row_productos,
             columns: [
     			{ dataField: 'IdProducto',width: 80},
-                { dataField: 'CodigodeBarras'},
+               
                 { dataField: 'DescripcionLarga'}
             ],
             columnChooser: { enabled: true },

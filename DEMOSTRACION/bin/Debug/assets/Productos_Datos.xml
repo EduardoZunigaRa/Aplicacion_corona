@@ -1,0 +1,637 @@
+﻿<Productos>
+  <Producto>
+    <IdProducto>03</IdProducto>
+    <CodigoBarras></CodigoBarras>
+    <Descripcion>VENTA DE ACTIVO FIJO</Descripcion>
+    <DescripcionLarga>VENTA DE ACTIVO FIJO</DescripcionLarga>
+    <IdUnidad>2</IdUnidad>
+    <Caracteristica1>68</Caracteristica1>
+    <caracteristica2>69</caracteristica2>
+    <caracteristica3>12</caracteristica3>
+    <caracteristica4>23</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>1775</IdProducto>
+    <CodigoBarras></CodigoBarras>
+    <Descripcion>ENVASE 12/1</Descripcion>
+    <DescripcionLarga>ENVASE 12/1</DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>68</Caracteristica1>
+    <caracteristica2>69</caracteristica2>
+    <caracteristica3>12</caracteristica3>
+    <caracteristica4>23</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>1782</IdProducto>
+    <CodigoBarras></CodigoBarras>
+    <Descripcion>ENVASE 24/210</Descripcion>
+    <DescripcionLarga>ENVASE 24/210</DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>68</Caracteristica1>
+    <caracteristica2>69</caracteristica2>
+    <caracteristica3>15</caracteristica3>
+    <caracteristica4>21</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>1783</IdProducto>
+    <CodigoBarras></CodigoBarras>
+    <Descripcion>ENVASE MEGAFAMILIAR 12/1.2</Descripcion>
+    <DescripcionLarga>ENVASE MEGAFAMILIAR 12/1.2</DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>68</Caracteristica1>
+    <caracteristica2>69</caracteristica2>
+    <caracteristica3>13</caracteristica3>
+    <caracteristica4>22</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>1784</IdProducto>
+    <CodigoBarras></CodigoBarras>
+    <Descripcion>ENVASE 24/355</Descripcion>
+    <DescripcionLarga>ENVASE 24/355</DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>68</Caracteristica1>
+    <caracteristica2>69</caracteristica2>
+    <caracteristica3>14</caracteristica3>
+    <caracteristica4>20</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>1785</IdProducto>
+    <CodigoBarras></CodigoBarras>
+    <Descripcion>ENVASE 12/355</Descripcion>
+    <DescripcionLarga>ENVASE 12/355</DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>68</Caracteristica1>
+    <caracteristica2>69</caracteristica2>
+    <caracteristica3>17</caracteristica3>
+    <caracteristica4>20</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3000000</IdProducto>
+    <CodigoBarras>9104</CodigoBarras>
+    <Descripcion>AGUA NATURAL 3.78 LT</Descripcion>
+    <DescripcionLarga>AGUA NESTLE PUREZA VITAL 3.78 LT</DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>3</Caracteristica1>
+    <caracteristica2>8</caracteristica2>
+    <caracteristica3>18</caracteristica3>
+    <caracteristica4>29</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3000003</IdProducto>
+    <CodigoBarras>114</CodigoBarras>
+    <Descripcion>CORONA EXTRA BOTE 24/355</Descripcion>
+    <DescripcionLarga>CORONA EXTRA BOTE 24/355 ML TRADICIONAL </DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>2</Caracteristica1>
+    <caracteristica2>5</caracteristica2>
+    <caracteristica3>16</caracteristica3>
+    <caracteristica4>20</caracteristica4>
+    <caracteristica5>30</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3000005</IdProducto>
+    <CodigoBarras>121</CodigoBarras>
+    <Descripcion>CORONA EXTRA MEGAFAMILIAR 12/1.2</Descripcion>
+    <DescripcionLarga>CORONA EXTRA MEGAFAMILIAR 12/1.2</DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>1</Caracteristica1>
+    <caracteristica2>5</caracteristica2>
+    <caracteristica3>13</caracteristica3>
+    <caracteristica4>22</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3000009</IdProducto>
+    <CodigoBarras>146</CodigoBarras>
+    <Descripcion>CORONA EXTRA AMBAR 24/355</Descripcion>
+    <DescripcionLarga>CORONA EXTRA AMBAR 24/355 ML </DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>1</Caracteristica1>
+    <caracteristica2>5</caracteristica2>
+    <caracteristica3>14</caracteristica3>
+    <caracteristica4>20</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3000012</IdProducto>
+    <CodigoBarras>715</CodigoBarras>
+    <Descripcion>CORONA LIGHT BOTE 24/2</Descripcion>
+    <DescripcionLarga>CORONA LIGHT TALL CAN 6 PACK HI CONE 24/2 TRADICIONAL</DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>2</Caracteristica1>
+    <caracteristica2>6</caracteristica2>
+    <caracteristica3>16</caracteristica3>
+    <caracteristica4>20</caracteristica4>
+    <caracteristica5>30</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3000020</IdProducto>
+    <CodigoBarras>1435</CodigoBarras>
+    <Descripcion>BARRILITO FAJILLA 24/355</Descripcion>
+    <DescripcionLarga>BARRILITO FAJILLA 24/355 TRADICIONAL</DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>2</Caracteristica1>
+    <caracteristica2>10</caracteristica2>
+    <caracteristica3>14</caracteristica3>
+    <caracteristica4>20</caracteristica4>
+    <caracteristica5>30</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3000022</IdProducto>
+    <CodigoBarras>1502</CodigoBarras>
+    <Descripcion>VICTORIA MEGAFAMILIAR 12/1.2</Descripcion>
+    <DescripcionLarga>VICTORIA MEGAFAMILIAR 12/1.2 TRADICIONAL LISA</DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>1</Caracteristica1>
+    <caracteristica2>4</caracteristica2>
+    <caracteristica3>13</caracteristica3>
+    <caracteristica4>22</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3000024</IdProducto>
+    <CodigoBarras>1540</CodigoBarras>
+    <Descripcion>VICTORIA AMBAR 24/355 ML</Descripcion>
+    <DescripcionLarga>VICTORIA AMBAR 24/355 ML</DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>1</Caracteristica1>
+    <caracteristica2>4</caracteristica2>
+    <caracteristica3>14</caracteristica3>
+    <caracteristica4>20</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3000027</IdProducto>
+    <CodigoBarras>1854</CodigoBarras>
+    <Descripcion>PACIFICO BOTE 6 PACK</Descripcion>
+    <DescripcionLarga>PACIFICO BOTE 6 PACK HI-CONE TRADICIONAL</DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>2</Caracteristica1>
+    <caracteristica2>7</caracteristica2>
+    <caracteristica3>16</caracteristica3>
+    <caracteristica4>20</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3000054</IdProducto>
+    <CodigoBarras>7304</CodigoBarras>
+    <Descripcion>LEON BOTE 8 PACK</Descripcion>
+    <DescripcionLarga>LEON BOTE 8 PACK FILM TRADICIONAL</DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>2</Caracteristica1>
+    <caracteristica2>11</caracteristica2>
+    <caracteristica3>16</caracteristica3>
+    <caracteristica4>20</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3000083</IdProducto>
+    <CodigoBarras>9021</CodigoBarras>
+    <Descripcion>AGUA NATURAL 1.5 LT</Descripcion>
+    <DescripcionLarga>AGUA NESTLE PUREZA VITAL 1.5 LT  </DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>3</Caracteristica1>
+    <caracteristica2>8</caracteristica2>
+    <caracteristica3>18</caracteristica3>
+    <caracteristica4>27</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3000085</IdProducto>
+    <CodigoBarras>9025</CodigoBarras>
+    <Descripcion>AGUA NATURAL 1.0 LT</Descripcion>
+    <DescripcionLarga>AGUA NESTLE PUREZA VITAL 1.0 LT </DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>3</Caracteristica1>
+    <caracteristica2>8</caracteristica2>
+    <caracteristica3>18</caracteristica3>
+    <caracteristica4>26</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3000090</IdProducto>
+    <CodigoBarras>9301</CodigoBarras>
+    <Descripcion>AGUA NESTLE MANZANA 0.333 LTS</Descripcion>
+    <DescripcionLarga>AGUA NESTLE SABOR MANZANA 0.333 LTS</DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>3</Caracteristica1>
+    <caracteristica2>8</caracteristica2>
+    <caracteristica3>19</caracteristica3>
+    <caracteristica4>28</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3000091</IdProducto>
+    <CodigoBarras>9303</CodigoBarras>
+    <Descripcion>AGUA NESTLE UVA 0.333 LT</Descripcion>
+    <DescripcionLarga>AGUA NESTLE UVA 0.333 LT</DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>3</Caracteristica1>
+    <caracteristica2>8</caracteristica2>
+    <caracteristica3>19</caracteristica3>
+    <caracteristica4>28</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3000094</IdProducto>
+    <CodigoBarras>9308</CodigoBarras>
+    <Descripcion>AGUA JAMAICA 1.5 LT</Descripcion>
+    <DescripcionLarga>AGUA NESTLE JAMAICA 1.5 LT </DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>3</Caracteristica1>
+    <caracteristica2>8</caracteristica2>
+    <caracteristica3>19</caracteristica3>
+    <caracteristica4>27</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3000095</IdProducto>
+    <CodigoBarras>9309</CodigoBarras>
+    <Descripcion>AGUA NESTLE NARANJA 1.5 LT</Descripcion>
+    <DescripcionLarga>AGUA NESTLE SABOR NARANJA 1.5 LT </DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>3</Caracteristica1>
+    <caracteristica2>8</caracteristica2>
+    <caracteristica3>19</caracteristica3>
+    <caracteristica4>27</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3000179</IdProducto>
+    <CodigoBarras>310</CodigoBarras>
+    <Descripcion>CORONITA EXTRA CLARA 24/210</Descripcion>
+    <DescripcionLarga>CORONITA EXTRA CLARA 24/210 ML TRADICIONAL </DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>1</Caracteristica1>
+    <caracteristica2>5</caracteristica2>
+    <caracteristica3>15</caracteristica3>
+    <caracteristica4>21</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3000180</IdProducto>
+    <CodigoBarras>2044</CodigoBarras>
+    <Descripcion>MODELO ESPECIAL BOTE 6 PACK 24/355</Descripcion>
+    <DescripcionLarga>MODELO ESPECIAL BOTE 6 PACK HI-CONE 24/355 ML ND </DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>2</Caracteristica1>
+    <caracteristica2>9</caracteristica2>
+    <caracteristica3>16</caracteristica3>
+    <caracteristica4>20</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3000181</IdProducto>
+    <CodigoBarras>2039</CodigoBarras>
+    <Descripcion>MODELO ESPECIAL BOTE FRIDGE 12 PACK</Descripcion>
+    <DescripcionLarga>MODELO ESPECIAL BOTE FRIDGE 12 PACK TRADIONAL ND</DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>2</Caracteristica1>
+    <caracteristica2>9</caracteristica2>
+    <caracteristica3>16</caracteristica3>
+    <caracteristica4>20</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3000187</IdProducto>
+    <CodigoBarras>1510</CodigoBarras>
+    <Descripcion>VICTORIA AMBAR 24/210 ML</Descripcion>
+    <DescripcionLarga>VICTORIA AMBAR PAPEL 24/210 MLL CT </DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>1</Caracteristica1>
+    <caracteristica2>4</caracteristica2>
+    <caracteristica3>15</caracteristica3>
+    <caracteristica4>21</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3000189</IdProducto>
+    <CodigoBarras>1529</CodigoBarras>
+    <Descripcion>VICTORIA CHAPARRA 6 PK 24/355</Descripcion>
+    <DescripcionLarga>VICTORIA CHAPARRA FILM 6 PACK 24/355 ML</DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>2</Caracteristica1>
+    <caracteristica2>4</caracteristica2>
+    <caracteristica3>14</caracteristica3>
+    <caracteristica4>20</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3000199</IdProducto>
+    <CodigoBarras>2048</CodigoBarras>
+    <Descripcion>MODELO ESPECIAL 12/355 ML</Descripcion>
+    <DescripcionLarga>MODELO ESPECIAL BOTELLA 12/355 ML</DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>1</Caracteristica1>
+    <caracteristica2>9</caracteristica2>
+    <caracteristica3>17</caracteristica3>
+    <caracteristica4>20</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3000877</IdProducto>
+    <CodigoBarras>3040</CodigoBarras>
+    <Descripcion>NEGRA MODELO 12/355 ML</Descripcion>
+    <DescripcionLarga>NEGRA MODELO 12/355 ML CT ND</DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>1</Caracteristica1>
+    <caracteristica2>9</caracteristica2>
+    <caracteristica3>17</caracteristica3>
+    <caracteristica4>20</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3000922</IdProducto>
+    <CodigoBarras>9164</CodigoBarras>
+    <Descripcion>AGUA NATURAL 600 ML</Descripcion>
+    <DescripcionLarga>AGUA NESTLE PUREZA VITAL 600 ML</DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>3</Caracteristica1>
+    <caracteristica2>8</caracteristica2>
+    <caracteristica3>18</caracteristica3>
+    <caracteristica4>25</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3000933</IdProducto>
+    <CodigoBarras>141</CodigoBarras>
+    <Descripcion>CORONA EXTRA CLARA 24/355 ML</Descripcion>
+    <DescripcionLarga>CORONA EXTRA CLARA 24/355 ML PROMO TRAD</DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>1</Caracteristica1>
+    <caracteristica2>5</caracteristica2>
+    <caracteristica3>14</caracteristica3>
+    <caracteristica4>20</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3001268</IdProducto>
+    <CodigoBarras>1302</CodigoBarras>
+    <Descripcion>CORONA FAMILIAR 12/940 ML</Descripcion>
+    <DescripcionLarga>CORONA EXTRA FAMILIAR 12/940 ML TRADICIONAL</DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>1</Caracteristica1>
+    <caracteristica2>5</caracteristica2>
+    <caracteristica3>12</caracteristica3>
+    <caracteristica4>23</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3001395</IdProducto>
+    <CodigoBarras>735</CodigoBarras>
+    <Descripcion>CORONA LIGHT BOTELLA 24/355 ML</Descripcion>
+    <DescripcionLarga>CORONA LIGHT BOTELLA 24/355 ML</DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>1</Caracteristica1>
+    <caracteristica2>6</caracteristica2>
+    <caracteristica3>14</caracteristica3>
+    <caracteristica4>20</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3002139</IdProducto>
+    <CodigoBarras>9394</CodigoBarras>
+    <Descripcion>AGUA JAMAICA 600 ML</Descripcion>
+    <DescripcionLarga>AGUA NESTLE JAMAICA 600 ML 8 PACK</DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>3</Caracteristica1>
+    <caracteristica2>8</caracteristica2>
+    <caracteristica3>19</caracteristica3>
+    <caracteristica4>25</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3002142</IdProducto>
+    <CodigoBarras>9393</CodigoBarras>
+    <Descripcion>AGUA NARANJA 600 ML</Descripcion>
+    <DescripcionLarga>AGUA NESTLE NARANJA 600 ML</DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>3</Caracteristica1>
+    <caracteristica2>8</caracteristica2>
+    <caracteristica3>19</caracteristica3>
+    <caracteristica4>25</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>3003697</IdProducto>
+    <CodigoBarras>4001</CodigoBarras>
+    <Descripcion>VICTORIA BOTE 4 PACK 24/473 ML</Descripcion>
+    <DescripcionLarga>VICTORIA BOTE 4 PACK HI-CONE 24/473 ML TRADICIONAL </DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>2</Caracteristica1>
+    <caracteristica2>4</caracteristica2>
+    <caracteristica3>16</caracteristica3>
+    <caracteristica4>24</caracteristica4>
+    <caracteristica5>30</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>8114</IdProducto>
+    <CodigoBarras>8114</CodigoBarras>
+    <Descripcion>CORONA EXTRA BOTE P2</Descripcion>
+    <DescripcionLarga>CORONA EXTRA BOTE PROMOCION 2</DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>8132</IdProducto>
+    <CodigoBarras>8132</CodigoBarras>
+    <Descripcion>CORONA FAMILIAR P3</Descripcion>
+    <DescripcionLarga>CORONA FAMILIAR PROMOCION 3</DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>8715</IdProducto>
+    <CodigoBarras>8715</CodigoBarras>
+    <Descripcion>CORONA LIGHT BOTE P2</Descripcion>
+    <DescripcionLarga>CORONA LIGHT BOTE PROMOCION 2 </DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>9002</IdProducto>
+    <CodigoBarras>9002</CodigoBarras>
+    <Descripcion>REF. PEPSI COLA  600 mls.  N.R.</Descripcion>
+    <DescripcionLarga>REF. PEPSI COLA  600 mls.  N.R. </DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>3</Caracteristica1>
+    <caracteristica2>83</caracteristica2>
+    <caracteristica3>85</caracteristica3>
+    <caracteristica4>22</caracteristica4>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>9014</IdProducto>
+    <CodigoBarras>9014</CodigoBarras>
+    <Descripcion>SQUIRT 600 mls.</Descripcion>
+    <DescripcionLarga>SQUIRT 600 mls.</DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>3</Caracteristica1>
+    <caracteristica2>84</caracteristica2>
+    <caracteristica3>85</caracteristica3>
+    <caracteristica4>25</caracteristica4>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>9015</IdProducto>
+    <CodigoBarras>9015</CodigoBarras>
+    <Descripcion>SQUIRT 2 Lts. N.R.</Descripcion>
+    <DescripcionLarga>SQUIRT 2 Lts. N.R.</DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>3</Caracteristica1>
+    <caracteristica2>84</caracteristica2>
+    <caracteristica3>85</caracteristica3>
+    <caracteristica4>87</caracteristica4>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>9024</IdProducto>
+    <CodigoBarras>9024</CodigoBarras>
+    <Descripcion>REF. PEPSI 2.5 Lts</Descripcion>
+    <DescripcionLarga>REF. PEPSI 2.5 Lts </DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>3</Caracteristica1>
+    <caracteristica2>83</caracteristica2>
+    <caracteristica3>85</caracteristica3>
+    <caracteristica4>86</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>9027</IdProducto>
+    <CodigoBarras>9027</CodigoBarras>
+    <Descripcion>REF. 7 - UP  2.5 Lts</Descripcion>
+    <DescripcionLarga>REF. 7 - UP  2.5 Lts </DescripcionLarga>
+    <IdUnidad>1</IdUnidad>
+    <Caracteristica1>3</Caracteristica1>
+    <caracteristica2>88</caracteristica2>
+    <caracteristica3>85</caracteristica3>
+    <caracteristica4>86</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>ABEXEC</IdProducto>
+    <CodigoBarras>02</CodigoBarras>
+    <Descripcion>ABARROTES EXCENTO</Descripcion>
+    <DescripcionLarga>ABARROTES EXCENTO </DescripcionLarga>
+    <IdUnidad>2</IdUnidad>
+    <Caracteristica1>68</Caracteristica1>
+    <caracteristica2>69</caracteristica2>
+    <caracteristica3>12</caracteristica3>
+    <caracteristica4>23</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>ABGRAV</IdProducto>
+    <CodigoBarras>01</CodigoBarras>
+    <Descripcion>ABARROTES GRAVADO</Descripcion>
+    <DescripcionLarga>ABARROTES GRAVADO</DescripcionLarga>
+    <IdUnidad>2</IdUnidad>
+    <Caracteristica1>68</Caracteristica1>
+    <caracteristica2>69</caracteristica2>
+    <caracteristica3>12</caracteristica3>
+    <caracteristica4>23</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+  <Producto>
+    <IdProducto>NT01</IdProducto>
+    <CodigoBarras>04</CodigoBarras>
+    <Descripcion>NOTA DE CREDITO</Descripcion>
+    <DescripcionLarga>NOTA DE CREDITO
+</DescripcionLarga>
+    <IdUnidad>2</IdUnidad>
+    <Caracteristica1>68</Caracteristica1>
+    <caracteristica2>69</caracteristica2>
+    <caracteristica3>12</caracteristica3>
+    <caracteristica4>23</caracteristica4>
+    <caracteristica5>31</caracteristica5>
+    <Caracteristica6>33</Caracteristica6>
+    <RutaImagen></RutaImagen>
+  </Producto>
+</Productos>

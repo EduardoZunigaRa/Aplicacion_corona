@@ -9,19 +9,14 @@ window.DEMOSTRACION = $.extend(true, window.DEMOSTRACION, {
         "icon": "group"
       },
       {
-        "title": "Home",
-        "onExecute": "#home",
-        "icon": "home"
-      },
-      {
-        "title": "About",
-        "onExecute": "#about",
-        "icon": "info"
-      },
-      {
         "title": "Productos",
-        "onExecute": "#Productos",
-        "icon": "productos"
+        "onExecute": "#productos",
+        "icon": "box"
+      },
+      {
+        "title": "ventas",
+        "onExecute": "#ventas",
+        "icon": "ventas"
       }
     ]
   }

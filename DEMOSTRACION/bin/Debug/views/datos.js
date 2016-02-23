@@ -1,7 +1,7 @@
 ﻿$(document).ready(function (e) {
     $.ajax({
         type: "GET",
-        url: "Clientes_datos.xml",
+        url: "assets/Clientes_datos.xml",
         dataType: "xml",
         success: function (xml) { 
             $(xml).find('Clientes').each(function () { 

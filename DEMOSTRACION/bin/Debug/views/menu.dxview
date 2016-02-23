@@ -1,0 +1,12 @@
+<div data-options="dxView: { name: 'menu', modal: true, orientation: 'landscape', pane: 'master', title: 'SELECCIONE UNA SECCIÓN', layout: 'empty' }">
+
+    <div data-options="dxContent : { targetPlaceholder: 'content' } " class="dx-content-background">
+        <div id="datos" class="clientes" data-bind="dxButton: { text: 'Clientes'}"></div>
+        <!--div data-bind="dxCommand: { id: 'myCommand', title: 'Clientes', location: 'view', onExecute: {view: 'datos'}}"></div-->
+        <div id="productos" class="productos" data-bind="dxButton: { text: 'Productos' }"></div>
+        <div id="ventas" class="ventas" data-bind="dxButton: { text: 'Ventas' }"></div>
+        <div class="promociones" data-bind="dxButton: { text: 'Promociones' }"></div>
+
+    </div>
+
+</div>
