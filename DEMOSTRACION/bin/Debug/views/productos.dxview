@@ -1,35 +1,32 @@
 <div data-options="dxView : { name: 'productos', title: 'Productos' } ">
     <div data-options="dxContent: {  targetPlaceholder: 'content'}">
-        <div style="height:100%; width: 100%; margin: 0 auto" data-bind="dxDataGrid: {
-            dataSource: row_productos,
-            columns: [
-    			{ dataField: 'IdProducto',width: 80},
-               
-                { dataField: 'DescripcionLarga'}
-            ],
-            columnChooser: { enabled: true },
-            allowColumnReordering: true,
-            sorting: { mode: 'multiple' },
-            groupPanel: { visible: true, emptyPanelText: 'Arrastre la columna para filtrar los datos' },
-            pager: { visible: true },
-            paging: { pageSize: 20},
-
-            editing: {
-                editEnabled: false,
-                editMode: 'row',
-                insertEnabled: false,
-                removeEnabled: false
-            },
-            filterRow: { visible: true },
-            searchPanel: { visible: true },
-            selection: { mode: 'none' },
-            rowClick: function (clickedRow) {
-            clickedRow.rowElement.hasClass('clicked') ?
-            clickedRow.rowElement.removeClass('clicked') : clickedRow.rowElement.addClass('clicked')
-        }
-        }">
+        <div style="height:100%; width: 100%; margin: 0 auto" data-bind="dxDataGrid: { 
+             activeStateEnabled: true, 
+             allowColumnReordering: true, 
+             allowColumnResizing: true, 
+             columnChooser: {enabled:true}, 
+             columns: [{
+              dataField:'IdProducto',width:80},
+             { dataField:'DescripcionLarga'},
+             { dataField:'Existencias'},
+             { dataField:'Precio'}
+             ], 
+             dataSource: row_productos, 
+             editing: {editEnabled:false,editMode:'row',insertEnabled:false,removeEnabled:false},
+             filterRow: {visible:true}, 
+             groupPanel: {emptyPanelText:'Arrastre la columna para filtrar los datos',visible:true}, 
+             pager: {visible:true}, 
+             searchPanel: {visible:true},
+             selection: {mode:'single'}, 
+             sorting: {mode:'multiple'}, 
+             rowClick: function(clickedRow){
+                clickedRow.rowElement.hasClass('clicked') ?
+                clickedRow.rowElement.removeClass('clicked'):clickedRow.rowElement.addClass('clicked')} 
+             }">
         </div>
-        <div id="gridContainer"></div>
-        <div id="clearSelectionButton" style="height: 40px;"></div>
+        <div id="gridContainer" >
+            <div class="list-item-arrow"></div>
+        </div>
+       
     </div>
 </div>

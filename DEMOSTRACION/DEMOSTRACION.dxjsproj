@@ -14,6 +14,7 @@
     <KeyApkPath>certificates\android_certificate.p12</KeyApkPath>
     <KeyApkAlias>tmpl</KeyApkAlias>
     <ApkDexFilePackageName>com.devextreme.DEMOSTRACION</ApkDexFilePackageName>
+    <IpaPrivateKeyFile>certificates\ios_private_key.txt</IpaPrivateKeyFile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -37,7 +38,19 @@
     <Content Include="cordova.js" />
     <Content Include="index.html" />
     <Content Include="index.css" />
+    <Content Include="views\detalleproducto.css">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="views\detalleproducto.dxview">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="views\detalleproducto.js">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="views\menu.css">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="views\productos.css">
       <SubType>Content</SubType>
     </Content>
     <Content Include="views\productos.dxview">
@@ -59,6 +72,8 @@
       <SubType>Content</SubType>
     </Content>
     <None Include="certificates\android_certificate.p12" />
+    <None Include="certificates\ios_certificate_request.txt" />
+    <None Include="certificates\ios_private_key.txt" />
     <None Include="config.xml" />
     <Content Include="css\dx.spa.css" />
     <Content Include="css\dx.common.css" />

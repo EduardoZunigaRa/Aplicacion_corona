@@ -3,25 +3,25 @@
     height: 100%;
 }
 .clientes{
-    background-color: sandybrown;
+    background-color: #fff;
     font-size: 25px !important;
     width: 100% !important;
     height: 25% !important;
 }
 .productos{
-    background-color: lightgreen;
+    background-color: #fff;
     font-size: 25px !important;
     width: 100% !important;
     height: 25% !important;
 }
 .ventas{
-    background-color: #DCDCDC;
+    background-color: #FFFFFF;
     font-size: 25px !important;
     width: 100% !important;
     height: 25% !important;
 }
 .promociones{
-    background-color: #DCDCDC;
+    background-color: #fff;
     font-size: 25px !important;
     width: 100% !important;
     height: 25% !important;

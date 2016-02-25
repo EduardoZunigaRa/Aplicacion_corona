@@ -1,0 +1,19 @@
+<div data-options="dxView : { name: 'detalleproducto', title: 'Detalle Producto', modal: true } " >
+    <div data-options="dxContent : { targetPlaceholder: 'content' } " class="dx-content-background">
+        
+        <div class="contenedor">
+            <div class="cabecera" align="left">
+                <div class="contenido">
+                    
+                </div>
+            </div>
+            <div class="cabecera" align="left">
+                <div class="contenido">
+                    
+                </div>
+            </div>
+           
+        </div>
+        
+    </div>
+</div>

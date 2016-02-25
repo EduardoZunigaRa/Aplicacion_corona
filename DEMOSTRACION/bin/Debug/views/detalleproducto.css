@@ -1,0 +1,13 @@
+﻿.contenedor{
+    width: auto;
+    height: auto;
+}
+
+.cabecera{
+    margin: 3%;
+    border: 1px solid #e1e1e1;
+
+}
+.contenido{
+    margin: 20px;
+}

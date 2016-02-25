@@ -1,6 +1,34 @@
 <div data-options="dxView : { name: 'ventas', title: 'Ventas' } " >
     <div data-options="dxContent : { targetPlaceholder: 'content' } " class="dx-content-background">
-        <p style="padding: 5px">To learn more about DevExtreme, check out the <a href="http://go.devexpress.com/DevExtreme_LearningCenter.aspx" target="_blank">Learning Center</a>.</p>
-        <p style="padding: 5px">Note: To disable the simulator debugging environment, set the project's 'Run in Simulator' property to false.</p>
+        <div style="height:100%; width: 100%; margin: 0 auto" data-bind="dxDataGrid: {
+            dataSource: row_productos,
+            columns: [
+    			{ dataField: 'IdVenta',width: 80},
+
+                { dataField: 'documento'},
+                
+            ],
+            columnChooser: { enabled: true },
+            allowColumnReordering: true,
+            sorting: { mode: 'multiple' },
+            groupPanel: { visible: true, emptyPanelText: 'Arrastre la columna para filtrar los datos' },
+            pager: { visible: true },
+            paging: { pageSize: 20},
+
+            editing: {
+                editEnabled: false,
+                editMode: 'row',
+                insertEnabled: false,
+                removeEnabled: false
+            },
+            filterRow: { visible: true },
+            searchPanel: { visible: true },
+            selection: { mode: 'none' },
+            rowClick: function (clickedRow) {
+            clickedRow.rowElement.hasClass('clicked') ?
+            clickedRow.rowElement.removeClass('clicked') : clickedRow.rowElement.addClass('clicked')
+        }
+        }">
+        </div>
     </div>
 </div>
